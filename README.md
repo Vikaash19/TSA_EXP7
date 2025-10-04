@@ -68,6 +68,7 @@ PACF
 <img width="756" height="556" alt="4 PACF" src="https://github.com/user-attachments/assets/3bcb3d62-cd72-412a-be72-8872772103e0" />
 
 MSE
+
 <img width="452" height="27" alt="5 MSE" src="https://github.com/user-attachments/assets/7a5f9596-0f65-493e-9c73-0575b10f736a" />
 
 Prediction vs test data
