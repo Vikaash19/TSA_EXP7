@@ -1,8 +1,5 @@
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Date: 
-
-
-
+### Date: 04.10.2025
 ### AIM:
 To Implementat an Auto Regressive Model using Python
 ### ALGORITHM:
@@ -13,7 +10,8 @@ To Implementat an Auto Regressive Model using Python
 5. Plot Partial Autocorrelation Function (PACF) and Autocorrelation Function (ACF)
 6. Make predictions using the AR model.Compare the predictions with the test data
 7. Calculate Mean Squared Error (MSE).Plot the test data and predictions.
-### PROGRAM
+### PROGRAM:
+
 ### OUTPUT:
 
 GIVEN DATA
